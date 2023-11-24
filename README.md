@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kailichou
-- 👀 I’m interested in Django+React, Java, R
-- 🌱 I’m currently learning Django, React, Django REST
-- 💞️ I’m looking to collaborate on Machine Learning apps
+- 👀 I’m interested in Python, Django+React, Java, R
+- 🌱 I’m currently learning Django, React, Django REST, imagetoimage, LLMs
+- 💞️ I’m looking to collaborate on Machine Learning models
 - 📫 How to reach me kailichou.edu@gmail.com
 
 <!---
